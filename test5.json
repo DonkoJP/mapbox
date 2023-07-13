@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "<blockquote class=\"twitter-tweet\"><p lang=\"ja\" dir=\"ltr\">本日は埼玉県和光市にて『みどりのパートナー研修会』にて講師を務めてきました。<br>まずは本会の舞台のひとつとなる熊野神社にて、ちょうど始まったばかりの茅の輪くぐりと合わせ、盛会を祈願させていただきました。 <a href=\"https://t.co/1g78WUaT34\">pic.twitter.com/1g78WUaT34</a></p>&mdash; forestthree/ビオトープの中の人 (@forestthree) <a href=\"https://twitter.com/forestthree/status/1677554372920893440?ref_src=twsrc%5Etfw\">July 8",
+        "description": " 2023</a></blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script> ",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8808906,
+          35.63209422
+        ]
+      }
+    }
+  ]
+}
